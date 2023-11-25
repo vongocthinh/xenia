@@ -1,0 +1,61 @@
+[
+  {
+    "id": 0,
+    "name": "John Doe",
+    "email": "gregorius.vo@gmail.com",
+    "avatar": "http://localhost:4000/static/avatar/0/1700814935769.jpg"
+  },
+  {
+    "name": "John Dooooe",
+    "email": "email@email.com",
+    "id": 1
+  },
+  {
+    "name": "Testing",
+    "email": "email@email.com",
+    "id": 2
+  },
+  {
+    "name": "Testing",
+    "email": "email@email.com",
+    "id": 3
+  },
+  {
+    "name": "Testing",
+    "email": "email@email.com",
+    "id": 4
+  },
+  {
+    "name": "Testing",
+    "email": "thinh.vo@email.com",
+    "id": 5
+  },
+  {
+    "name": "testing",
+    "email": "email@email.com",
+    "id": 6,
+    "avatar": "http://localhost:4000/static/avatar/6/1700822305709.jpg"
+  },
+  {
+    "name": "Thinh Vo",
+    "email": "email@email.com",
+    "id": 7
+  },
+  {
+    "name": "Testing 1",
+    "email": "email@email.com",
+    "id": 8
+  },
+  {
+    "name": "Testing 2",
+    "email": "email@email.com",
+    "id": 9,
+    "avatar": "http://localhost:4000/static/avatar/9/1700839128192.jpg"
+  },
+  {
+    "name": "Testing 3",
+    "email": "email@email.com",
+    "id": 10,
+    "avatar": "http://localhost:4000/static/avatar/10/1700839166523.jpg"
+  }
+]
